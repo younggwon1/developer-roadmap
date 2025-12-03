@@ -1910,11 +1910,6 @@
       }
     ]
   },
-  "wwPO5Uc6qnwYgibrbPn7y": {
-    "title": "Streaming",
-    "description": "Streaming processing, also known as real-time processing, involves the immediate ingestion, as well as analysis, of data as it is generated, providing instantaneous insights and enabling timely decisions in time-sensitive applications like financial trading, medical monitoring, and autonomous vehicles. This differs from batch processing, which handles data in later batches, and typically involves continuous data streaming, low latency, and high availability to deliver immediate outcomes for critical tasks.",
-    "links": []
-  },
   "oqxNr0Lj34mgRi5Z5wJt_": {
     "title": "Realtime",
     "description": "Real-time processing, also known as streaming processing, involves the immediate ingestion, as well as analysis, of data as it is generated, providing instantaneous insights and enabling timely decisions in time-sensitive applications like financial trading, medical monitoring, and autonomous vehicles. This differs from batch processing, which handles data in later batches, and typically involves continuous data streaming, low latency, and high availability to deliver immediate outcomes for critical tasks.",
